@@ -1,0 +1,1 @@
+document.write('<div class="site-header displayflex"><a href="/" id="Logo"></a><ul class="navigator-list"><li><a href="/roblox-games" class="navlinks">Roblox Games</a></li><li><a href="/roblox-groups/" class="navlinks">Roblox Groups</a></li><li><a href="/roblox-merch" class="navlinks">Roblox Merch</a></li><li><a href="/socials" class="navlinks">Socials</a></li></ul></div>');
